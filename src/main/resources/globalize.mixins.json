@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "package": "dev.callmeecho.globalize.mixin",
+  "mixins": [
+    "VanillaDataPackProviderMixin"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
