@@ -4,6 +4,7 @@
   "compatibilityLevel": "JAVA_21",
   "package": "dev.callmeecho.globalize.mixin",
   "mixins": [
+    "ResourcePackManagerMixin",
     "VanillaDataPackProviderMixin"
   ],
   "client": [

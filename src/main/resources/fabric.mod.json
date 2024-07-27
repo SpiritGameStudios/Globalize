@@ -6,9 +6,9 @@
   "description": "Global datapacks for modpacks",
   "authors": ["CallMeEcho"],
   "contact": {
-    "homepage": "https://github.com/CallMeEchoCodes/Bombastic",
-    "sources": "https://github.com/CallMeEchoCodes/Bombastic",
-    "issues": "https://github.com/CallMeEchoCodes/Bombastic/issues"
+    "homepage": "https://github.com/SpiritGameStudios/Globalize",
+    "sources": "https://github.com/SpiritGameStudios/Globalize",
+    "issues": "https://github.com/SpiritGameStudios/Globalize/issues"
   },
   "license": "MPL-2.0",
   "environment": "*",
