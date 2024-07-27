@@ -13,7 +13,7 @@
   "license": "MPL-2.0",
   "environment": "*",
   "entrypoints": {
-    "main": ["dev.callmeecho.globalize.main.Globalize"]
+    "main": ["dev.spiritstudios.globalize.main.Globalize"]
   },
   "mixins": ["globalize.mixins.json"],
   "icon": "assets/globalize/icon.png",

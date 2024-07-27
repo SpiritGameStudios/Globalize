@@ -1,4 +1,4 @@
-package dev.callmeecho.globalize.main;
+package dev.spiritstudios.globalize.main;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;

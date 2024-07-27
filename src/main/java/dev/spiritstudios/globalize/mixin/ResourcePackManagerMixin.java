@@ -1,7 +1,7 @@
-package dev.callmeecho.globalize.mixin;
+package dev.spiritstudios.globalize.mixin;
 
 import com.google.common.collect.ImmutableSet;
-import dev.callmeecho.globalize.main.ResourcePackManagerAccessor;
+import dev.spiritstudios.globalize.main.ResourcePackManagerAccessor;
 import net.minecraft.resource.ResourcePackManager;
 import net.minecraft.resource.ResourcePackProvider;
 import org.spongepowered.asm.mixin.Final;

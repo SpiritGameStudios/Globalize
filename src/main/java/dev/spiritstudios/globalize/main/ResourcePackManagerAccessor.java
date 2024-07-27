@@ -1,4 +1,4 @@
-package dev.callmeecho.globalize.main;
+package dev.spiritstudios.globalize.main;
 
 import net.minecraft.resource.ResourcePackProvider;
 

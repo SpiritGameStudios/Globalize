@@ -1,15 +1,13 @@
-package dev.callmeecho.globalize.mixin;
+package dev.spiritstudios.globalize.mixin;
 
-import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;
-import dev.callmeecho.globalize.main.Globalize;
-import dev.callmeecho.globalize.main.ResourcePackManagerAccessor;
+import dev.spiritstudios.globalize.main.Globalize;
+import dev.spiritstudios.globalize.main.ResourcePackManagerAccessor;
 import net.minecraft.resource.*;
 import net.minecraft.util.path.SymlinkFinder;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
-import org.spongepowered.asm.mixin.injection.Redirect;
 
 import java.nio.file.Path;
 
